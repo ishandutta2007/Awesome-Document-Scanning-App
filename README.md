@@ -59,7 +59,7 @@ The global document scanning app market is estimated at **~$3.5B in 2026** and i
 
 > **🔒 Privacy First**: Open-source mobile scanners keep document processing 100% local on your device using computer vision and offline OCR engines.
 
-| 📦 Project / Repository | 📄 Description | 🏷️ License | ⭐ Stars |
+| 📦 Project / Repository | 📄 Description | 🏷️ License | ⭐ GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[OpenCV](https://github.com/opencv/opencv)** | Open Source Computer Vision Library powering real-time edge detection, perspective correction, and image filtering in mobile scanning apps. | Apache 2.0 | [![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers) |
 | **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** | High-accuracy multilingual OCR toolkits based on PaddlePaddle, supporting document recognition, layout analysis, and text extraction. | Apache 2.0 | [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) |
@@ -123,3 +123,12 @@ Contributions are always welcome — feel free to submit a Pull Request to add n
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Document-Scanning-App&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Document-Scanning-App&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Document-Scanning-App&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Document-Scanning-App_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Document-Scanning-App_growth.svg">
+  </picture>
+</a>
